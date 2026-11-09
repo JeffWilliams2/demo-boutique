@@ -22,7 +22,7 @@ const {
   heroHeader = false,
 } = Astro.props;
 
-const siteOrigin = (Astro.site ?? new URL('https://demo-boutique.vercel.app')).origin;
+const siteOrigin = (Astro.site ?? new URL('https://demo-marlowe-rose.vercel.app')).origin;
 const canonicalURL = new URL(Astro.url.pathname, siteOrigin).href;
 const ogImageURL = new URL(ogImage ?? '/products/hero-1.jpg', siteOrigin).href;
 const ga4Id = import.meta.env.PUBLIC_GA4_ID;
