@@ -1,19 +1,19 @@
 @import 'tailwindcss';
 
-/* ── Noble Muse design tokens ────────────────────────────────────
+/* ── Marlowe & Rose design tokens ────────────────────────────────────
    Ink navy on white with one lilac accent. Archivo in tracked caps
    for everything structural; a monospace whisper for campaign notes.
    No border radius anywhere — the theme is all right angles. */
 @theme {
   --color-base: #ffffff;
-  --color-ink: #191936;
-  --color-soft: #575669;
+  --color-ink: #231b18;
+  --color-soft: #5e5450;
   --color-muted: #8c8a82;
   --color-line: #e6e4de;
   --color-linesoft: #f0eee9;
   --color-tint: #efece6;
-  --color-acc: #6f5bd6;
-  --color-acclite: #c8bef5;
+  --color-acc: #a8465f;
+  --color-acclite: #f0c9d3;
 
   --font-sans: 'Archivo', Helvetica, Arial, sans-serif;
   --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;

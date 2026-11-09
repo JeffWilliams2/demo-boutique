@@ -5,7 +5,7 @@
 import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout title="Clothing — NOBLE MUSE" description="The Noble Muse catalogue: dresses, blouses, knitwear, tailoring and denim in ink, cream and mulberry.">
+<Layout title="Clothing | MARLOWE & ROSE" description="The Marlowe & Rose collection: dresses, blouses, knitwear, tailoring and denim in ink, cream and mulberry.">
   <main class="mx-auto max-w-[1640px] px-4 pt-[84px] sm:px-5 sm:pt-[80px] lg:px-9">
     <div class="mb-11 flex flex-col gap-3">
       <div class="cap-xs text-muted">HOME / <span data-crumb>CLOTHING</span></div>
@@ -26,7 +26,7 @@ import Layout from '../layouts/Layout.astro';
             <div class="flex items-center gap-3">
               <span class="cap text-muted">Max</span>
               <input data-f-price type="range" min="40" max="300" step="10" value="300" class="w-[130px]" />
-              <span class="text-[11px]" data-f-price-label>€300</span>
+              <span class="text-[11px]" data-f-price-label>$300</span>
             </div>
           </div>
           <select data-f-sort class="cap border-none bg-transparent">
@@ -100,7 +100,7 @@ import Layout from '../layouts/Layout.astro';
     $('[data-f-color]')?.addEventListener('change', (e) => { F.color = (e.target as HTMLSelectElement).value; render(); });
     $('[data-f-price]')?.addEventListener('input', (e) => {
       F.price = Number((e.target as HTMLInputElement).value);
-      $('[data-f-price-label]')!.textContent = '€' + F.price;
+      $('[data-f-price-label]')!.textContent = '$' + F.price;
       render();
     });
     $('[data-f-sort]')?.addEventListener('change', (e) => { F.sort = (e.target as HTMLSelectElement).value; render(); });

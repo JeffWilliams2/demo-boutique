@@ -2,8 +2,8 @@
  "collections": [
   {
    "handle": "noble-muse",
-   "name": "NOBLE MUSE",
-   "tagline": "DRESSING MODERN MUSES",
+   "name": "MARLOWE & ROSE",
+   "tagline": "DENTON, TEXAS",
    "categories": [
     {
      "name": "Dresses",
@@ -54,8 +54,8 @@
    "id": "nm01",
    "handle": "nm01-vesper-slip-dress",
    "title": "Vesper Slip Dress",
-   "description": "Vesper Slip Dress in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Vesper Slip Dress in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm01.jpg",
@@ -94,7 +94,7 @@
     "colors": [
      {
       "name": "Ink Navy",
-      "hex": "#191936"
+      "hex": "#231b18"
      },
      {
       "name": "Cream",
@@ -114,8 +114,8 @@
    "id": "nm02",
    "handle": "nm02-aurelie-midi-dress",
    "title": "Aurelie Midi Dress",
-   "description": "Aurelie Midi Dress in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Aurelie Midi Dress in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm02.jpg",
@@ -156,7 +156,7 @@
      },
      {
       "name": "Ink Navy",
-      "hex": "#191936"
+      "hex": "#231b18"
      },
      {
       "name": "Sage",
@@ -176,8 +176,8 @@
    "id": "nm03",
    "handle": "nm03-solene-knit-dress",
    "title": "Solene Knit Dress",
-   "description": "Solene Knit Dress in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Solene Knit Dress in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm03.jpg",
@@ -240,8 +240,8 @@
    "id": "nm04",
    "handle": "nm04-marguerite-shirt-dress",
    "title": "Marguerite Shirt Dress",
-   "description": "Marguerite Shirt Dress in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Marguerite Shirt Dress in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm04.jpg",
@@ -298,8 +298,8 @@
    "id": "nm05",
    "handle": "nm05-odette-silk-blouse",
    "title": "Odette Silk Blouse",
-   "description": "Odette Silk Blouse in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Odette Silk Blouse in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm05.jpg",
@@ -356,8 +356,8 @@
    "id": "nm06",
    "handle": "nm06-lenna-balloon-blouse",
    "title": "Lenna Balloon Blouse",
-   "description": "Lenna Balloon Blouse in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Lenna Balloon Blouse in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm06.jpg",
@@ -396,7 +396,7 @@
     "colors": [
      {
       "name": "Ink Navy",
-      "hex": "#191936"
+      "hex": "#231b18"
      },
      {
       "name": "Cream",
@@ -420,8 +420,8 @@
    "id": "nm07",
    "handle": "nm07-ivo-bow-blouse",
    "title": "Ivo Bow Blouse",
-   "description": "Ivo Bow Blouse in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Ivo Bow Blouse in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm07.jpg",
@@ -480,8 +480,8 @@
    "id": "nm08",
    "handle": "nm08-cove-poplin-shirt",
    "title": "Cove Poplin Shirt",
-   "description": "Cove Poplin Shirt in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Cove Poplin Shirt in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm08.jpg",
@@ -538,8 +538,8 @@
    "id": "nm09",
    "handle": "nm09-nera-rib-top",
    "title": "Nera Rib Top",
-   "description": "Nera Rib Top in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Nera Rib Top in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm09.jpg",
@@ -600,8 +600,8 @@
    "id": "nm10",
    "handle": "nm10-wren-cotton-tee",
    "title": "Wren Cotton Tee",
-   "description": "Wren Cotton Tee in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Wren Cotton Tee in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm10.jpg",
@@ -658,8 +658,8 @@
    "id": "nm11",
    "handle": "nm11-halden-cashmere-jumper",
    "title": "Halden Cashmere Jumper",
-   "description": "Halden Cashmere Jumper in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Halden Cashmere Jumper in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm11.jpg",
@@ -702,7 +702,7 @@
      },
      {
       "name": "Ink Navy",
-      "hex": "#191936"
+      "hex": "#231b18"
      }
     ],
     "sizes": [
@@ -718,8 +718,8 @@
    "id": "nm12",
    "handle": "nm12-rowan-cable-knit",
    "title": "Rowan Cable Knit",
-   "description": "Rowan Cable Knit in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Rowan Cable Knit in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm12.jpg",
@@ -776,8 +776,8 @@
    "id": "nm13",
    "handle": "nm13-elgin-hoodie",
    "title": "Elgin Hoodie",
-   "description": "Elgin Hoodie in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Elgin Hoodie in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm13.jpg",
@@ -834,8 +834,8 @@
    "id": "nm14",
    "handle": "nm14-mira-merino-cardigan",
    "title": "Mira Merino Cardigan",
-   "description": "Mira Merino Cardigan in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Mira Merino Cardigan in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm14.jpg",
@@ -896,8 +896,8 @@
    "id": "nm15",
    "handle": "nm15-aldford-wool-coat",
    "title": "Aldford Wool Coat",
-   "description": "Aldford Wool Coat in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Aldford Wool Coat in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm15.jpg",
@@ -936,7 +936,7 @@
     "colors": [
      {
       "name": "Ink Navy",
-      "hex": "#191936"
+      "hex": "#231b18"
      },
      {
       "name": "Camel",
@@ -956,8 +956,8 @@
    "id": "nm16",
    "handle": "nm16-bryn-quilted-jacket",
    "title": "Bryn Quilted Jacket",
-   "description": "Bryn Quilted Jacket in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Bryn Quilted Jacket in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm16.jpg",
@@ -1014,8 +1014,8 @@
    "id": "nm17",
    "handle": "nm17-sable-trench",
    "title": "Sable Trench",
-   "description": "Sable Trench in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Sable Trench in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm17.jpg",
@@ -1068,8 +1068,8 @@
    "id": "nm18",
    "handle": "nm18-tessa-shearling-jacket",
    "title": "Tessa Shearling Jacket",
-   "description": "Tessa Shearling Jacket in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Tessa Shearling Jacket in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm18.jpg",
@@ -1132,8 +1132,8 @@
    "id": "nm19",
    "handle": "nm19-marlow-tweed-blazer",
    "title": "Marlow Tweed Blazer",
-   "description": "Marlow Tweed Blazer in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Marlow Tweed Blazer in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm19.jpg",
@@ -1172,7 +1172,7 @@
     "colors": [
      {
       "name": "Ink Navy",
-      "hex": "#191936"
+      "hex": "#231b18"
      },
      {
       "name": "Stone",
@@ -1192,8 +1192,8 @@
    "id": "nm20",
    "handle": "nm20-juno-longline-blazer",
    "title": "Juno Longline Blazer",
-   "description": "Juno Longline Blazer in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Juno Longline Blazer in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm20.jpg",
@@ -1250,8 +1250,8 @@
    "id": "nm21",
    "handle": "nm21-ida-wide-trouser",
    "title": "Ida Wide Trouser",
-   "description": "Ida Wide Trouser in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Ida Wide Trouser in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm21.jpg",
@@ -1288,7 +1288,7 @@
     "colors": [
      {
       "name": "Ink Navy",
-      "hex": "#191936"
+      "hex": "#231b18"
      },
      {
       "name": "Cream",
@@ -1312,8 +1312,8 @@
    "id": "nm22",
    "handle": "nm22-lo-pleated-trouser",
    "title": "Lo Pleated Trouser",
-   "description": "Lo Pleated Trouser in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Lo Pleated Trouser in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm22.jpg",
@@ -1372,8 +1372,8 @@
    "id": "nm23",
    "handle": "nm23-faye-straight-jean",
    "title": "Faye Straight Jean",
-   "description": "Faye Straight Jean in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Faye Straight Jean in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm23.jpg",
@@ -1431,8 +1431,8 @@
    "id": "nm24",
    "handle": "nm24-nine-barrel-jean",
    "title": "Nine Barrel Jean",
-   "description": "Nine Barrel Jean in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Nine Barrel Jean in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm24.jpg",
@@ -1488,8 +1488,8 @@
    "id": "nm25",
    "handle": "nm25-robin-wide-denim",
    "title": "Robin Wide Denim",
-   "description": "Robin Wide Denim in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Robin Wide Denim in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm25.jpg",
@@ -1551,8 +1551,8 @@
    "id": "nm26",
    "handle": "nm26-otta-leather-belt",
    "title": "Otta Leather Belt",
-   "description": "Otta Leather Belt in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Otta Leather Belt in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm26.jpg",
@@ -1605,8 +1605,8 @@
    "id": "nm27",
    "handle": "nm27-suri-wool-scarf",
    "title": "Suri Wool Scarf",
-   "description": "Suri Wool Scarf in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Suri Wool Scarf in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm27.jpg",
@@ -1661,8 +1661,8 @@
    "id": "nm28",
    "handle": "nm28-base-rib-bodysuit",
    "title": "Base Rib Bodysuit",
-   "description": "Base Rib Bodysuit in the Noble Muse autumn edit.",
-   "vendor": "Noble Muse",
+   "description": "Base Rib Bodysuit in the Marlowe & Rose fall edit.",
+   "vendor": "Marlowe & Rose",
    "images": [
     {
      "src": "/products/nm28.jpg",

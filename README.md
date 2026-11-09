@@ -1,3 +1,11 @@
+# Marlowe & Rose — boutique demo site
+
+A demo storefront by [PermianBytes](https://www.permianbytes.com) for a women's boutique on the Denton square. Products, names and prices are examples.
+
+Based on the MIT-licensed [Noble Muse](https://github.com/njbSaab/astro-njx-muse) theme by njxui (see LICENSE).
+
+---
+
 # Noble Muse — premium womenswear storefront
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/njbSaab/astro-njx-muse) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/njbSaab/astro-njx-muse)
